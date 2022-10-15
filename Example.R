@@ -1,4 +1,4 @@
-# This is an example to assign k-helix using PDB 
+# This is an example of assignment of k-helix using PDB ID
 
 # Setting the path to STRIDE is required to run the function
 # STRIDE (stride_WIN32.exe) can be downloaded from the following URL:
