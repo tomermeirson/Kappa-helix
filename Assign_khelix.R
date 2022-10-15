@@ -3,6 +3,7 @@
 # Author: Tomer Meirson, 2022
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+# See the example of running the code at Example.R
 
 library(bio3d)
 library(dplyr)
